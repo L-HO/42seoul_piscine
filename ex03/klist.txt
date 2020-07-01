@@ -1,0 +1,4 @@
+ Name                Cache name                                 Expires
+* kyolee@42SEOUL.KR   API:FA5864F7-139C-4FFE-B003-3582AB491AC1   Jul  2 04:40:07 2020
+  kyolee@42SEOUL.KR   API:AB5D1E7F-B758-4F1D-99C3-ECBBE779589F   Jul  2 03:19:01 2020
+  kyolee@42SEOUL.KR   API:155989BC-381D-409D-8872-6D3C9207BAEC   Jul  2 00:33:27 2020
